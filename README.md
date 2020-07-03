@@ -40,9 +40,3 @@ flutter pub get
 flutter run
 ```
 
-
-### Testing
-
-```
-flutter test
-```
