@@ -40,7 +40,6 @@ flutter pub get
 flutter run
 ```
 
-- For smooth animation, recommend run in release/profile mode
 
 ### Testing
 
